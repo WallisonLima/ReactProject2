@@ -1,0 +1,15 @@
+.containerHeadrOptions{
+    display: flex;
+    margin-left: 350px;
+}
+
+.itemOptions{
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    color: #262626;
+    cursor: pointer;
+}

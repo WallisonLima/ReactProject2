@@ -1,0 +1,28 @@
+.containerImg{
+    display: flex;
+    margin-left: 300px;
+    background-image: url("https://source.unsplash.com/random"); 
+    background-size: auto;
+    height: 400px;
+    width: 1200px;
+    opacity: 0.7;
+    border-radius: 4px;
+}
+
+.textContainerImg{
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    color: white;
+    margin-left: 45px;
+    margin-top: 45px;
+    margin-right: 550px;
+}
+
+.titleContainerImg{
+    font-size: 50px;
+}
+
+.descContainerImg{
+    font-size: 25px;
+    margin-top: 20px;
+}
+
